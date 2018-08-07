@@ -14,7 +14,10 @@
     {% if sidebar.tagline %}
     <h3 class="tagline">{{ sidebar.tagline }}</h3>
     {% endif %}
-
+    
+    {% if sidebar.location %}
+    <h3 class="location">{{ sidebar.location }}</h3>
+    {% endif %}
   </div><!--//profile-container-->
 
   {% include contact.html %}
