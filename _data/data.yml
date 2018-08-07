@@ -38,6 +38,10 @@ career-profile:
       Second paragraph if required.
 
 education:
+    - degree: Web Development Bootcamp
+      university: Lighthouse Labs
+      time: July - September 2018
+      
     - degree: MS in Forensic Sciences
       university: National University
       time: 2015 - 2017
