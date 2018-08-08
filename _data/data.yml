@@ -53,11 +53,14 @@ skills:
       - name: JavaScript
         level: 80%
 
-      - name: HTML5 & CSS
+      - name: HTML5
+        level: 70%
+        
+      - name: CSS & SASS
         level: 70%
         
       - name: Node.js
-        level: 70%
+        level: 68%
         
       - name: Express
         level: 65%
