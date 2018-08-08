@@ -119,7 +119,7 @@ projects:
 
       - title: TinyApp
         link: "https://github.com/hellocathleen/TINY-APP"
-        tagline: "A multi-page app allowing users to register, log in and create and store shortened URLs."
+        tagline: "A multi-page app allowing users to register, log in and create and store shortened URLs. Built with JS, Node, Express and EJS."
 
 
 footer: >
