@@ -102,45 +102,21 @@ projects:
     intro: >
 
     assignments:
+      - title: ChattyApp
+        link: "https://github.com/hellocathleen/Chatty-App"
+        tagline: "A single-page real time chat application built utilizing React, Babel, and Webpack."
+        
       - title: Food Pickup Ordering App
         link: "https://github.com/hellocathleen/Food-Pickup-Ordering-App"
-        tagline: "A single-page application utilizing the Twilio API for ordering food for pick-up. Front-end built using HTML/CSS/SASS, Bootstrap, Javascript, AJAX, and back-end with Node.js, Express, and PostreSQL."
+        tagline: "A single-page application utilizing the Twilio API for ordering food for pickup. Front-end built using HTML/CSS/SASS, Bootstrap, Javascript, AJAX, and back-end with Node.js, Express, and PostgreSQL."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Tweeter
+        link: "https://github.com/hellocathleen/tweeter"
+        tagline: "A single-page Twitter clone built with HTML, CSS, JS, jQuery and AJAX, Node, Express and MongoDB."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-
-    papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: TinyApp
+        link: "https://github.com/hellocathleen/TINY-APP"
+        tagline: "A multi-page app allowing users to register, log in, and create and store shortened URLs."
 
 
 footer: >
