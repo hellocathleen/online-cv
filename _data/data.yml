@@ -30,7 +30,7 @@ sidebar:
 career-profile:
     title: Summary
     summary: |
-      Driven professional with six years of experience in biotech and chemical laboratories. Diligent, fast learner excited and ready to tackle the world of web development. Strengths include problem-solving, attention to detail, multi-tasking, and flexibility when plans change. Outside of the workplace, may be found playing with her cat, on the tennis court, in another country, or eating poutine.
+      Driven professional with six years of experience in biotech and chemical laboratories. Diligent, fast learner excited and ready to tackle the world of web development and expand technical skills. Strengths include problem-solving, attention to detail, multi-tasking, and flexibility when plans change. Outside of the workplace, may be found playing with her cat, on the tennis court, in another country, or eating poutine.
 
 education:
     - degree: Web Development Bootcamp
@@ -51,28 +51,28 @@ skills:
 
     toolset:
       - name: JavaScript
-        level: 85%
+        level: 80%
 
       - name: HTML5 & CSS
-        level: 80%
+        level: 70%
         
       - name: Node.js
-        level: 80%
+        level: 70%
         
       - name: Express
-        level: 70%
+        level: 65%
 
       - name: jQuery & AJAX
-        level: 65%
-        
-      - name: React, Babel, Webpack
         level: 60%
         
-      - name: PostgreSQL
+      - name: React, Babel, & Webpack
         level: 50%
         
-      - name: Ruby on Rails
-        level: 30%
+      - name: PostgreSQL
+        level: 40%
+        
+      - name: Ruby & Ruby on Rails
+        level: 25%
 
         
 experiences:
@@ -100,14 +100,11 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Food Pickup Ordering App
+        link: "https://github.com/hellocathleen/Food-Pickup-Ordering-App"
+        tagline: "A single-page application utilizing the Twilio API for ordering food for pick-up. Front-end built using HTML/CSS/SASS, Bootstrap, Javascript, AJAX, and back-end with Node.js, Express, and PostreSQL."
 
       - title: DevStudio
         link: "#"
