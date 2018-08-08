@@ -30,7 +30,7 @@ sidebar:
 career-profile:
     title: Summary
     summary: |
-      Driven professional with six years of experience in biotech and chemical laboratories. Diligent, fast learner excited and ready to tackle the world of web development and expand technical skills. Strengths include problem-solving, attention to detail, multi-tasking, and flexibility when plans change. Outside of the workplace, you may find me playing with my cat, on the tennis court, in another country, or eating poutine.
+      Driven professional with six years of experience in biotech and chemical laboratories. Diligent, fast learner excited and ready to tackle the world of web development and expand technical skills. Strengths include problem-solving, attention to detail, multi-tasking, and flexibility when plans change. Outside of the workplace, you may find me playing with my cat, on the tennis court, in another country or eating poutine.
 
 education:
     - degree: Web Development Bootcamp
@@ -68,7 +68,7 @@ skills:
       - name: jQuery & AJAX
         level: 60%
         
-      - name: React, Babel, & Webpack
+      - name: React, Babel & Webpack
         level: 50%
         
       - name: PostgreSQL
@@ -84,7 +84,7 @@ experiences:
       company: Integrated Micro-Chromatography Systems, Columbia, SC, USA
       details: |
           - Developed quality control and quality assurance systems by implementing scheduled LC-MS/MS
-            analysis, monthly stability testing, raw material testing, and batch record documentation.
+            analysis, monthly stability testing, raw material testing and batch record documentation.
           - Planned and carried out R&D projects to help characterize and optimize the performance of IMCSzyme
             and next-generation enzymes.
           - Presented three technical posters at conferences and contributed to two journal publications.
@@ -97,7 +97,7 @@ experiences:
         - As first shift lead analyst, coordinated with production team to ensure proper laboratory preparation
           and delegated laboratory tasks for smooth workflow.
         - Performed calibrations and maintenance on lab instruments, completed method validation
-          protocols independently, and reviewed data from other analysts to confirm accurate documentation.
+          protocols independently and reviewed data from other analysts to confirm accurate documentation.
           
 
 projects:
@@ -107,11 +107,11 @@ projects:
     assignments:
       - title: ChattyApp
         link: "https://github.com/hellocathleen/Chatty-App"
-        tagline: "A single-page real time chat application built utilizing React, Babel, and Webpack."
+        tagline: "A single-page real time chat application built utilizing React, Babel and Webpack."
         
       - title: Food Pickup Ordering App
         link: "https://github.com/hellocathleen/Food-Pickup-Ordering-App"
-        tagline: "A single-page application utilizing the Twilio API for ordering food for pickup. Front-end built using HTML/CSS/SASS, Bootstrap, Javascript, AJAX, and back-end with Node.js, Express, and PostgreSQL."
+        tagline: "A single-page application utilizing the Twilio API for ordering food for pickup. Front-end built using HTML/CSS/SASS, Bootstrap, Javascript, jQuery and AJAX, and back-end with Node.js, Express and PostgreSQL."
 
       - title: Tweeter
         link: "https://github.com/hellocathleen/tweeter"
@@ -119,7 +119,7 @@ projects:
 
       - title: TinyApp
         link: "https://github.com/hellocathleen/TINY-APP"
-        tagline: "A multi-page app allowing users to register, log in, and create and store shortened URLs."
+        tagline: "A multi-page app allowing users to register, log in and create and store shortened URLs."
 
 
 footer: >
