@@ -74,6 +74,9 @@ skills:
       - name: PostgreSQL
         level: 40%
         
+      - name: Websockets
+        level: 35%
+        
       - name: Ruby & Ruby on Rails
         level: 25%
 
