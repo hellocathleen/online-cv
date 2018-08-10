@@ -50,34 +50,6 @@ skills:
     title: Skills
     toolset:
     
-      - name: JavaScript
-
-      - name: HTML5
-        
-      - name: CSS & SASS
-        
-      - name: Node.js
-        
-      - name: Express
-
-      - name: jQuery & AJAX
-        
-      - name: React
-
-      - name: PostgreSQL
-        
-      - name: WebSockets
-        
-      - name: Ruby
-      
-      - name: Ruby on Rails
-      
-      - name: Babel
-      
-      - name: Webpack
-      
-      - name: Knex
-    
    
 experiences:
     - role: Quality Control & Research Analyst
