@@ -110,15 +110,15 @@ projects:
     assignments:
       - title: ChitChat
         link: "https://github.com/hellocathleen/ChitChat-App"
-        tagline: "A single-page real-time chat application built utilizing React, JSX, HTML/CSS/SASS, Babel, Webpack and WebSockets."
+        tagline: "A single-page real-time chat application built utilizing React, JSX, HTML, CSS/SASS, Babel, Webpack and WebSockets."
         
       - title: Food Pickup Ordering App
         link: "https://github.com/hellocathleen/Food-Pickup-Ordering-App"
-        tagline: "A single-page application utilizing the Twilio API for ordering food for pickup. Front-end built using HTML/CSS/SASS, Bootstrap, Javascript, jQuery and AJAX, and back-end with Node.js, Express and PostgreSQL."
+        tagline: "A single-page application utilizing the Twilio API for ordering food for pickup. Front-end built using HTML, CSS/SASS, Bootstrap, Javascript, jQuery and AJAX, and back-end with Node.js, Express and PostgreSQL."
 
       - title: Tweeter
         link: "https://github.com/hellocathleen/tweeter"
-        tagline: "A single-page Twitter clone built with HTML, CSS, JS, jQuery and AJAX, Node, Express and MongoDB."
+        tagline: "A single-page Twitter clone built with HTML, CSS/SASS, JS, jQuery and AJAX, Node, Express and MongoDB."
 
       - title: TinyApp
         link: "https://github.com/hellocathleen/TINY-APP"
