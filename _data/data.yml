@@ -48,9 +48,9 @@ education:
 
 skills:
     title: Skills
-
+<div class="column">
     toolset:
-    <div class="column">
+    
       - name: JavaScript
 
       - name: HTML5
