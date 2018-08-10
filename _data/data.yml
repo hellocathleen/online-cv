@@ -48,7 +48,6 @@ education:
 
 skills:
     title: Skills
-<div class="column">
     toolset:
     
       - name: JavaScript
@@ -64,8 +63,7 @@ skills:
       - name: jQuery & AJAX
         
       - name: React
-    </div>
-    <div class="column">
+
       - name: PostgreSQL
         
       - name: WebSockets
@@ -79,9 +77,8 @@ skills:
       - name: Webpack
       
       - name: Knex
-     </div>
-      
-      
+    
+   
 experiences:
     - role: Quality Control & Research Analyst
       time: June 2015 - June 2018
@@ -101,8 +98,8 @@ experiences:
         - As first shift lead analyst, coordinated with production team to ensure proper laboratory preparation
           and delegated laboratory tasks for smooth workflow.
         - Performed calibrations and maintenance on lab instruments, completed method validation
-          protocols independently and reviewed data from other analysts to confirm accurate documentation.
-          
+          protocols independently and reviewed data from other analysts to confirm accurate documentation.     
+
 
 projects:
     title: Projects
