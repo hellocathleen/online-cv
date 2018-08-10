@@ -51,34 +51,24 @@ skills:
 
     toolset:
       - name: JavaScript
-        level: 80%
 
       - name: HTML5
-        level: 70%
         
       - name: CSS & SASS
-        level: 70%
         
       - name: Node.js
-        level: 68%
         
       - name: Express
-        level: 65%
 
       - name: jQuery & AJAX
-        level: 60%
         
       - name: React, Babel & Webpack
-        level: 50%
         
-      - name: PostgreSQL
-        level: 40%
+      - name: PostgreSQL & Knex
         
       - name: WebSockets
-        level: 35%
         
       - name: Ruby & Ruby on Rails
-        level: 25%
 
         
 experiences:
@@ -110,7 +100,7 @@ projects:
     assignments:
       - title: ChitChat
         link: "https://github.com/hellocathleen/ChitChat-App"
-        tagline: "A single-page real-time chat application built utilizing React, JSX, HTML, CSS/SASS, Babel, Webpack and WebSockets."
+        tagline: "A single-page real-time chat application built utilizing <strong>React</strong>, JSX, HTML, CSS/SASS, Babel, Webpack and WebSockets."
         
       - title: Food Pickup Ordering App
         link: "https://github.com/hellocathleen/Food-Pickup-Ordering-App"
