@@ -50,6 +50,7 @@ skills:
     title: Skills
 
     toolset:
+    <div class="column">
       - name: JavaScript
 
       - name: HTML5
@@ -62,15 +63,25 @@ skills:
 
       - name: jQuery & AJAX
         
-      - name: React, Babel & Webpack
-        
-      - name: PostgreSQL & Knex
+      - name: React
+    </div>
+    <div class="column">
+      - name: PostgreSQL
         
       - name: WebSockets
         
-      - name: Ruby & Ruby on Rails
-
-        
+      - name: Ruby
+      
+      - name: Ruby on Rails
+      
+      - name: Babel
+      
+      - name: Webpack
+      
+      - name: Knex
+     </div>
+      
+      
 experiences:
     - role: Quality Control & Research Analyst
       time: June 2015 - June 2018
@@ -100,19 +111,19 @@ projects:
     assignments:
       - title: ChitChat
         link: "https://github.com/hellocathleen/ChitChat-App"
-        tagline: "A single-page real-time chat application built utilizing <strong>React</strong>, JSX, HTML, CSS/SASS, Babel, Webpack and WebSockets."
+        tagline: "A single-page real-time chat application built utilizing <strong>React</strong>, <strong>JSX</strong>, <strong>HTML</strong>, <strong>CSS/SASS</strong>, <strong>Babel</strong>, <strong>Webpack</strong> and <strong>WebSockets</strong>."
         
       - title: Food Pickup Ordering App
         link: "https://github.com/hellocathleen/Food-Pickup-Ordering-App"
-        tagline: "A single-page application utilizing the Twilio API for ordering food for pickup. Front-end built using HTML, CSS/SASS, Bootstrap, Javascript, jQuery and AJAX, and back-end with Node.js, Express and PostgreSQL."
+        tagline: "A single-page application utilizing the Twilio API for ordering food for pickup. Front-end built using <strong>HTML</strong>, <strong>CSS/SASS</strong>, <strong>Bootstrap</strong>, <strong>Javascript</strong>, <strong>jQuery</strong> and <strong>AJAX</strong>, and back-end with <strong>Node.js</strong>, <strong>Express</strong> and <strong>PostgreSQL</strong>."
 
       - title: Tweeter
         link: "https://github.com/hellocathleen/tweeter"
-        tagline: "A single-page Twitter clone built with HTML, CSS/SASS, JS, jQuery and AJAX, Node, Express and MongoDB."
+        tagline: "A single-page Twitter clone built with <strong>HTML</strong>, <strong>CSS/SASS</strong>, <strong>JS</strong>, <strong>jQuery</strong> and <strong>AJAX</strong>, <strong>Node.js</strong>, <strong>Express</strong> and <strong>MongoDB</strong>."
 
       - title: TinyApp
         link: "https://github.com/hellocathleen/TINY-APP"
-        tagline: "A multi-page app allowing users to register, log in and create and store shortened URLs. Built with JS, Node, Express and EJS."
+        tagline: "A multi-page app allowing users to register, log in and create and store shortened URLs. Built with <strong>JS</strong>, <strong>Node.js</strong>, <strong>Express</strong> and <strong>EJS</strong>."
 
 
 footer: >
