@@ -108,7 +108,7 @@ projects:
     intro: >
 
     assignments:
-      - title: ChattyApp
+      - title: ChitChat
         link: "https://github.com/hellocathleen/Chatty-App"
         tagline: "A single-page real time chat application built utilizing React, Babel, Webpack and WebSockets."
         
