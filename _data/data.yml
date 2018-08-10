@@ -109,8 +109,8 @@ projects:
 
     assignments:
       - title: ChitChat
-        link: "https://github.com/hellocathleen/Chatty-App"
-        tagline: "A single-page real time chat application built utilizing React, Babel, Webpack and WebSockets."
+        link: "https://github.com/hellocathleen/ChitChat-App"
+        tagline: "A single-page real-time chat application built utilizing React, JSX, HTML/CSS/SASS, Babel, Webpack and WebSockets."
         
       - title: Food Pickup Ordering App
         link: "https://github.com/hellocathleen/Food-Pickup-Ordering-App"
