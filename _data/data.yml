@@ -30,7 +30,7 @@ sidebar:
 career-profile:
     title: Summary
     summary: |
-      Driven professional with six years of experience in biotech and chemical laboratories. Diligent, fast learner excited and ready to tackle the world of web development and expand technical skills. Strengths include problem-solving, attention to detail, multi-tasking and flexibility when plans change. Outside of the workplace, you may find me playing with my cat, on the tennis court, in another country or eating poutine.
+      Junior full stack web developer with six years of experience in biotech and chemical laboratories. Diligent, fast learner excited and ready to tackle the world of web development and expand technical skills. Strengths include problem-solving, attention to detail, multi-tasking and flexibility when plans change. Outside of the workplace, you may find me playing with my cat, on the tennis court, in another country or eating poutine.
 
 education:
     - degree: Web Development Bootcamp
@@ -84,7 +84,7 @@ projects:
         
       - title: Food Pickup Ordering App
         link: "https://github.com/hellocathleen/Food-Pickup-Ordering-App"
-        tagline: "A single-page application utilizing the Twilio API for ordering food for pickup. Front-end built using <strong>HTML</strong>, <strong>CSS/SASS</strong>, <strong>Bootstrap</strong>, <strong>JavaScript</strong>, <strong>jQuery</strong> and <strong>AJAX</strong>, and back-end with <strong>Node.js</strong>, <strong>Express</strong> and <strong>PostgreSQL</strong>."
+        tagline: "A single-page food ordering application built by a team of three, which utilizes the Twilio API for sending SMS messages between the restaurant and client. Customers can select desired quantities of food items and place an order by entering name and phone number and submitting the order from the cart. The restaurant then receives an SMS message with the order details and sends a reply when the order is ready for pickup. I was personally responsible for creating and seeding the database and pair-programmed the front-end as well. The Front-end was built using <strong>HTML</strong>, <strong>CSS/SASS</strong>, <strong>Bootstrap</strong>, <strong>JavaScript</strong>, <strong>jQuery</strong> and <strong>AJAX</strong>, and back-end with <strong>Node.js</strong>, <strong>Express</strong>, <strong>PostgreSQL</strong> and <strong>Knex</strong>."
 
       - title: Tweeter
         link: "https://github.com/hellocathleen/tweeter"
