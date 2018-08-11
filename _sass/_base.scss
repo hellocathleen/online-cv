@@ -240,6 +240,7 @@ p {
     .item {
         margin-bottom: 15px;
         overflow: hidden;
+        font-weight: 700;
     }
     .level-title {
         font-size: 16px;
@@ -256,8 +257,8 @@ p {
     }
     .row {
         display: flex;
-        margin-right: 15px;
-        margin-left: 15px;
+        margin-right: 20px;
+        margin-left: 120px;
     }
     .column {
         flex: 50%;
