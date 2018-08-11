@@ -84,7 +84,7 @@ projects:
         
       - title: Food Pickup Ordering App
         link: "https://github.com/hellocathleen/Food-Pickup-Ordering-App"
-        tagline: "A single-page food ordering application built by a team of three, which utilizes the Twilio API for sending SMS messages between the restaurant and client. I was personally responsible for creating and seeding the database and pair-programmed the front-end as well. The Front-end was built using <strong>HTML</strong>, <strong>CSS/SASS</strong>, <strong>Bootstrap</strong>, <strong>JavaScript</strong>, <strong>jQuery</strong> and <strong>AJAX</strong>, and back-end with <strong>Node.js</strong>, <strong>Express</strong>, <strong>PostgreSQL</strong> and <strong>Knex</strong>."
+        tagline: "Built by a team of three, this is a single-page food ordering application which utilizes the Twilio API for sending SMS messages between the restaurant and client. I was personally responsible for creating and seeding the database and pair-programmed the front-end as well. The Front-end was built using <strong>HTML</strong>, <strong>CSS/SASS</strong>, <strong>Bootstrap</strong>, <strong>JavaScript</strong>, <strong>jQuery</strong> and <strong>AJAX</strong>, and back-end with <strong>Node.js</strong>, <strong>Express</strong>, <strong>PostgreSQL</strong> and <strong>Knex</strong>."
 
       - title: Tweeter
         link: "https://github.com/hellocathleen/tweeter"
