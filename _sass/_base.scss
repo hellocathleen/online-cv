@@ -255,7 +255,9 @@ p {
         background: lighten($theme-color, 15%);
     }
     .row {
-        display: flex
+        display: flex;
+        margin-right: 15px;
+        margin-left: 15px;
     }
     .column {
         flex: 50%;
