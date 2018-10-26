@@ -78,6 +78,10 @@ projects:
     intro: >
 
     assignments:
+      - title: Point Break
+        link: "https://point-break-lhl.herokuapp.com/"
+        tagline: "A multi-page web app built by a team of three, utilizing <strong>React</strong>, <strong>NodeJS</strong>, <strong>HTML</strong>, <strong>CSS</strong>, <strong>Knex</strong>, <strong>Webpack</strong> and <strong>Express</strong>. Point Break offers user registration, where a user may select up to 10 of their favorite Vancouver Island beaches. Users will then receive notifications via email or text, depending on their preference, telling them when the weather conditions are just right for a great day of surfing. I built out the database, front-end user registration and profile pages, and made API calls to the back-end server to query the database."
+        
       - title: ChitChat
         link: "https://github.com/hellocathleen/ChitChat-App"
         tagline: "A single-page real-time chat application built utilizing <strong>React</strong>, <strong>JSX</strong>, <strong>HTML</strong>, <strong>CSS/SASS</strong>, <strong>Babel</strong>, <strong>Webpack</strong> and <strong>WebSockets</strong>."
