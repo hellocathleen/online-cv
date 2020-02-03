@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Cathleen Melendez
-    tagline: Junior Web Developer
+    tagline: Front-End Developer
     avatar: 022.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
     location: Victoria, BC
 
@@ -30,7 +30,7 @@ sidebar:
 career-profile:
     title: Summary
     summary: |
-      Junior full stack web developer with six years of experience in biotech and chemical laboratories. Diligent, fast learner excited and ready to tackle the world of web development and expand technical skills. Strengths include problem-solving, attention to detail, multi-tasking and flexibility when plans change. Outside of the workplace, you may find me playing with my cat, on the tennis court, in another country or eating poutine.
+      Front-end developer with a solid scientific background and over a year of experience in the tech industry. Diligent, fast learner with a continual desire to expand technical skills. Strengths include problem-solving, attention to detail, multi-tasking and flexibility when plans change. Outside of the workplace, you may find me playing with my cat, on the tennis court, in another country, or trying a new poutine.
 
 education:
     - degree: Web Development Bootcamp
@@ -56,9 +56,8 @@ experiences:
       time: September 2018 - present
       company: RFDM Solutions, Victoria, BC
       details: |
-          - Develop custom business solutions for clients by building out CRM, accounting, inventory and other software apps to help increase sales and efficiency.
-          - Improve client's online presence with custom, responsive WordPress website development.
-          - Design and build out business solutions utilizing third-party apps such as Zapier.
+          - Improve clients' online presence by building responsive WordPress websites.
+          - Design and build out custom business solutions by creating workflows and custom functions within the CRM and/or utilizing third-party apps such as Zapier.
           - Build and manage Google Ads search and display campaigns as well as LinkedIn campaigns. 
           - Custom-build email templates for use in marketing automation platforms.
   
