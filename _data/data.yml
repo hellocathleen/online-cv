@@ -52,15 +52,35 @@ skills:
     
    
 experiences:
-    - role: Junior Software Developer
+    - role: Front-End Developer
       time: September 2018 - present
       company: RFDM Solutions, Victoria, BC
       details: |
           - Develop custom business solutions for clients by building out CRM, accounting, inventory and other software apps to help increase sales and efficiency.
-          - Improve client's online presence with thoughtful WordPress website development.
-          - Connect client's current state with business solutions by developing custom or out-of-the-box integrations.
+          - Improve client's online presence with custom, responsive WordPress website development.
+          - Design and build out business solutions utilizing third-party apps such as Zapier.
+          - Build and manage Google Ads search and display campaigns as well as LinkedIn campaigns. 
+          - Custom-build email templates for use in marketing automation platforms.
+  
+    - role: Project Manager
+      time: September 2019 - present
+      company: Sunbowl Systems
+      details: |
+        - Manage client Shopify projects using agile project management.
+        - Responsively communicate with clients via Slack and Zoom.
+        - Research, investigate, and solve client issues.
+        - Organize client requests into cycles and record videos to explain jobs to both clients and developers.
+        - Carefully review developer work and ensure proper job completion before submitting to client.
 
-    - role: Quality Control & Research Analyst
+    - role: Shopify Developer
+      time: November 2018 - present
+      company: Sunbowl Systems
+      details: |
+        - Build custom elements into Shopify themes using liquid code.
+        - Customize Shopify themes using SCSS.
+        - Record and submit job reports to project managers.
+   
+   - role: Quality Control & Research Analyst
       time: June 2015 - June 2018
       company: Integrated Micro-Chromatography Systems, Columbia, SC, USA
       details: |
@@ -101,10 +121,6 @@ projects:
       - title: Tweeter
         link: "https://github.com/hellocathleen/tweeter"
         tagline: "A single-page Twitter clone built with <strong>HTML</strong>, <strong>CSS/SASS</strong>, <strong>JS</strong>, <strong>jQuery</strong> and <strong>AJAX</strong>, <strong>Node.js</strong>, <strong>Express</strong> and <strong>MongoDB</strong>."
-
-      - title: TinyApp
-        link: "https://github.com/hellocathleen/TINY-APP"
-        tagline: "A multi-page app allowing users to register, log in and create and store shortened URLs. Built with <strong>JS</strong>, <strong>Node.js</strong>, <strong>Express</strong> and <strong>EJS</strong>."
 
 
 footer: >
