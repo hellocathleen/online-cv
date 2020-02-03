@@ -258,10 +258,13 @@ p {
     .row {
         display: flex;
         margin-right: 20px;
-        margin-left: 120px;
+        margin-left: 20px;
     }
     .column {
         flex: 50%;
+    }
+    .title {
+        margin-bottom: 12px;
     }
 }
 
