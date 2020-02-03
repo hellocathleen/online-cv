@@ -30,7 +30,7 @@ sidebar:
 career-profile:
     title: Summary
     summary: |
-      Front-end developer with a solid scientific background and over a year of experience in the tech industry. Diligent, fast learner with a continual desire to expand technical skills. Strengths include problem-solving, attention to detail, multi-tasking and flexibility when plans change. Outside of the workplace, you may find me playing with my cat, on the tennis court, in another country, or trying a new poutine.
+      Front-end developer with a solid scientific background and over a year of experience in the tech industry. Diligent, fast learner with a continual desire to expand technical skills. Strengths include problem-solving, attention to detail, multi-tasking and flexibility when plans change. Outside of the workplace, you may find me playing with my cat, rallying on the tennis court, exploring another country, or trying a new poutine.
 
 education:
     - degree: Web Development Bootcamp
@@ -101,10 +101,18 @@ experiences:
 
 
 projects:
-    title: Projects
+    title: Websites & Projects
     intro: >
 
     assignments:
+      - title: UrtheCast
+        link: "https://urthecast.com"
+        tagline: "A new website for a satellite company in Vancouver that I single-handedly built. Worked with three different teams to bring together all input and create a new site with fresh branding."
+    
+      - title: BedRock Systems
+        link: "https://bedrocksystems.com"
+        tagline: "An original website for a San Francisco-based company providing a formally verified computing foundation. Built, quality assured, and launched under a strict deadline of one month."
+    
       - title: Point Break
         link: "https://point-break-lhl.herokuapp.com/"
         tagline: "A multi-page web app built by a team of three, utilizing <strong>React</strong>, <strong>Node.js</strong>, <strong>HTML</strong>, <strong>CSS</strong>, <strong>Knex</strong>, <strong>Webpack</strong> and <strong>Express</strong>. Point Break offers user registration, where a user may select up to 10 of their favorite Vancouver Island beaches. Users will then receive notifications via email or text, depending on their preference, telling them when the weather conditions are just right for a great day of surfing. I built out the database, front-end user registration and profile pages, and made API calls to the back-end server to query the database."
@@ -116,10 +124,6 @@ projects:
       - title: Food Pickup Ordering App
         link: "https://github.com/hellocathleen/Food-Pickup-Ordering-App"
         tagline: "Built by a team of three, this is a single-page food ordering application which utilizes the Twilio API for sending SMS messages between the restaurant and client. I was personally responsible for creating and seeding the database and pair-programmed the front-end as well. The Front-end was built using <strong>HTML</strong>, <strong>CSS/SASS</strong>, <strong>Bootstrap</strong>, <strong>JavaScript</strong>, <strong>jQuery</strong> and <strong>AJAX</strong>, and back-end with <strong>Node.js</strong>, <strong>Express</strong>, <strong>PostgreSQL</strong> and <strong>Knex</strong>."
-
-      - title: Tweeter
-        link: "https://github.com/hellocathleen/tweeter"
-        tagline: "A single-page Twitter clone built with <strong>HTML</strong>, <strong>CSS/SASS</strong>, <strong>JS</strong>, <strong>jQuery</strong> and <strong>AJAX</strong>, <strong>Node.js</strong>, <strong>Express</strong> and <strong>MongoDB</strong>."
 
 
 footer: >
