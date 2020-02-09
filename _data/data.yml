@@ -107,11 +107,11 @@ projects:
     assignments:
       - title: UrtheCast
         link: "https://urthecast.com"
-        tagline: "A new website for a satellite company in Vancouver that I single-handedly built. Worked with three different teams to bring together all input and create a new site with fresh branding."
+        tagline: "A new website for a satellite company in Vancouver that I single-handedly built. I worked with one team member to design the website wireframes and built the site to match mock-ups graphically designed from those wireframes. Worked with three different teams to bring together all input and create a new, original website."
     
-      - title: BedRock Systems (launching Feb. 2020)
+      - title: BedRock Systems (launching late Feb. 2020)
         link: "https://bedrocksystems.com"
-        tagline: "An original website for a San Francisco-based company providing a formally verified computing foundation. Built, quality assured, and launched under a strict deadline of one month."
+        tagline: "An original website with fresh branding for a San Francisco-based company providing a formally verified computing foundation. I created wireframes based off of client input. Designed, built, and quality assured under a strict deadline of one month."
     
       - title: Point Break
         link: "https://point-break-lhl.herokuapp.com/"
