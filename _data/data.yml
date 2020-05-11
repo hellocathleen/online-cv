@@ -117,6 +117,10 @@ projects:
         link: "https://point-break-lhl.herokuapp.com/"
         tagline: "A multi-page web app built by a team of three, utilizing <strong>React</strong>, <strong>Node.js</strong>, <strong>HTML</strong>, <strong>CSS</strong>, <strong>Knex</strong>, <strong>Webpack</strong> and <strong>Express</strong>. Point Break offers user registration, where a user may select up to 10 of their favorite Vancouver Island beaches. Users will then receive notifications via email or text, depending on their preference, telling them when the weather conditions are just right for a great day of surfing. I built out the database, front-end user registration and profile pages, and made API calls to the back-end server to query the database."
         
+      - title: Jungle
+        link: "https://github.com/hellocathleen/jungle-rails"
+        tagline: "A mini e-commerce application built from starter code with <strong>Rails 4.2</strong> and <strong>PostgreSQL</strong>. Users can register, log in, write reviews and rate a product, as well as place an order and receive an email receipt."
+        
       - title: ChitChat
         link: "https://github.com/hellocathleen/ChitChat-App"
         tagline: "A single-page real-time chat application built utilizing <strong>React</strong>, <strong>JSX</strong>, <strong>HTML</strong>, <strong>CSS/SASS</strong>, <strong>Babel</strong>, <strong>Webpack</strong> and <strong>WebSockets</strong>."
